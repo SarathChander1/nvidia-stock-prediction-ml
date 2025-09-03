@@ -1,0 +1,9 @@
+Data Scraping: A Python script to scrape the latest NVIDIA stock data from Yahoo Finance.
+
+Data Preprocessing: Cleaning and preparing the data for training the model.
+
+Model Training: Building and training an LSTM model using TensorFlow and Keras.
+
+Stock Price Prediction: Predicting future NVIDIA stock prices based on the trained model.
+
+Visualization: Visualizing the actual vs. predicted stock prices.
